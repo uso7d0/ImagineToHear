@@ -16,9 +16,7 @@ It:
 - Injects audio into the LM via a **fusion module**,  
 achieving **state-of-the-art performance** on AuditoryBench—**without using external audio databases**.
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/f18b6a68-1033-438c-8182-44e685e5cf82)
-</p>
+![image](https://github.com/user-attachments/assets/f18b6a68-1033-438c-8182-44e685e5cf82)
 
 ## Method
 ### 🔍 1. Imagination Module
@@ -79,9 +77,7 @@ Imagine to Hear (ITH) uses generated auditory knowledge to answer questions that
 
 These examples highlight how ITH can generate relevant audio (e.g., rattling, chirping) and use it to guide accurate predictions, where BERT fails due to lack of auditory grounding.
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/df05de85-b6a5-414a-a6f1-fb069bf09b9b)
-</p>
+![image](https://github.com/user-attachments/assets/df05de85-b6a5-414a-a6f1-fb069bf09b9b)
 
 👉 Want to hear the generated sounds? Check out more case studies on our [🔗 project page](https://imagine-to-hear.github.io).
 
