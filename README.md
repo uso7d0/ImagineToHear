@@ -3,7 +3,7 @@
 [**📄 arXiv**](https://arxiv.org/abs/2503.16853) | [**🌐 Project Page**](https://imagine-to-hear.github.io)
 
 This repository contains the official code for our paper:  
-**"Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models" (Yoo et al., 2025)**
+**"Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models"**
 
 
 ## Introduction
