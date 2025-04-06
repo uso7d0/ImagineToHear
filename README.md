@@ -75,7 +75,7 @@ Imagine to Hear (ITH) uses generated auditory knowledge to answer questions that
 - **BERT**: *Bird* ❌  
 - **ITH**: ✅ *Cricket*
 
-These examples highlight how ITH can generate relevant audio (e.g., rattling, chirping) and use it to guide accurate predictions, where BERT fails due to lack of auditory grounding.
+These examples highlight how ITH can generate relevant audio (e.g., rattling, chirping in the fall) and use it to guide accurate predictions, where BERT fails due to lack of auditory grounding.
 
 ![image](https://github.com/user-attachments/assets/df05de85-b6a5-414a-a6f1-fb069bf09b9b)
 
