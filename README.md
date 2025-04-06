@@ -21,7 +21,7 @@ achieving **state-of-the-art performance** on AuditoryBench—**without using ex
 ## Method
 ### 🔍 1. Imagination Module
 - Detects **multiple auditory spans** from text (via fine-tuned BERT-base).
-- Generates audio for each span using a **text-to-audio diffusion model** (e.g., Stable Audio).
+- Generates audio for each span using a **text-to-audio diffusion model**.
 - Uses **CLAP-based rejection sampling** to ensure semantic alignment.
 
 ### 🔗 2. Fusion Module
